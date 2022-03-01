@@ -1,0 +1,6 @@
+#-*- coding: utf-8 -*-
+# install 
+dnf provides g++
+sudo install [套件名稱]
+# compiler
+g++ hello.cpp -o hello
